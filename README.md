@@ -1,6 +1,6 @@
-# Blikit-Analysis
+# Blinkit-Analysis
 ## Project Overview:
-This project involves analyzing Blikit's data to derive actionable insights and support data-driven decision-making. The analysis focuses on creating interactive dashboards and uncovering trends to enhance business strategies.
+This project involves analyzing Blinkit's data to derive actionable insights and support data-driven decision-making. The analysis focuses on creating interactive dashboards and uncovering trends to enhance business strategies.
 
 Chart Requirements :
 
